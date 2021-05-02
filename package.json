@@ -3,6 +3,9 @@
   "displayName": "One Dark Palenight",
   "description": "One Dark UI, Material Palenight syntax.",
   "version": "1.0.1",
+  "repository": {
+    "url": "https://github.com/jakesock/vsc-onedark-palenight"
+  },
   "engines": {
     "vscode": "^1.55.0"
   },
