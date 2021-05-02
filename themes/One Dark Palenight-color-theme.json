@@ -30,7 +30,7 @@
       "name": "Global settings",
       "settings": {
         "background": "#292D3E",
-        "foreground": "#FDFDFD"
+        "foreground": "#F6F6F6"
       }
     },
     {
@@ -51,7 +51,7 @@
       "name": "String Escape",
       "scope": "constant.character.escape, text.html constant.character.entity.named",
       "settings": {
-        "foreground": "#FDFDFD"
+        "foreground": "#F6F6F6"
       }
     },
     {
@@ -72,7 +72,7 @@
       "name": "Variable",
       "scope": "variable, variable.parameter, support.variable, variable.language, support.constant, meta.definition.variable entity.name.function, meta.function-call.arguments",
       "settings": {
-        "foreground": "#FDFDFD"
+        "foreground": "#F6F6F6"
       }
     },
     {
@@ -187,7 +187,7 @@
       "name": "Reset embedded/template expression colors",
       "scope": "meta.embedded, source.groovy.embedded, meta.template.expression",
       "settings": {
-        "foreground": "#FDFDFD"
+        "foreground": "#F6F6F6"
       }
     },
     {
@@ -264,7 +264,7 @@
       "name": "HTML entities",
       "scope": "punctuation.definition.entity.html",
       "settings": {
-        "foreground": "#FDFDFD"
+        "foreground": "#F6F6F6"
       }
     },
     {
@@ -386,14 +386,14 @@
       "name": "C# namespace",
       "scope": "source.cs entity.name.type.namespace",
       "settings": {
-        "foreground": "#FDFDFD"
+        "foreground": "#F6F6F6"
       }
     },
     {
       "name": "JSX Text",
       "scope": "meta.jsx.children, SXNested",
       "settings": {
-        "foreground": "#FDFDFD"
+        "foreground": "#F6F6F6"
       }
     },
     {
@@ -407,7 +407,7 @@
       "name": "C-related Block Level Variables",
       "scope": "source.cpp meta.block variable.other",
       "settings": {
-        "foreground": "#FDFDFD"
+        "foreground": "#F6F6F6"
       }
     },
     {
@@ -442,7 +442,7 @@
       "name": "Namespaces",
       "scope": "source.php support.other.namespace, source.php meta.use support.class",
       "settings": {
-        "foreground": "#FDFDFD"
+        "foreground": "#F6F6F6"
       }
     },
     {
@@ -464,7 +464,7 @@
       "name": "Global settings",
       "settings": {
         "background": "#292D3E",
-        "foreground": "#FDFDFD"
+        "foreground": "#F6F6F6"
       }
     },
     {
@@ -508,7 +508,7 @@
       "name": "Markdown - Fenced Language",
       "scope": ["markup.fenced_code.block"],
       "settings": {
-        "foreground": "#FDFDFD90"
+        "foreground": "#F6F6F690"
       }
     },
     {

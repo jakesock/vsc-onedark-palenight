@@ -1,9 +1,10 @@
 {
-  "publisher": "JakeSock",
   "name": "one-dark-palenight",
-  "version": "1.0.0",
+  "displayName": "One Dark Palenight",
+  "description": "One Dark UI, Material Palenight syntax.",
+  "version": "1.0.1",
   "engines": {
-    "vscode": "^1.22.0"
+    "vscode": "^1.55.0"
   },
   "categories": [
     "Themes"
@@ -11,11 +12,10 @@
   "contributes": {
     "themes": [
       {
-        "label": "onedark-palenight",
+        "label": "One Dark Palenight",
         "uiTheme": "vs-dark",
-        "path": "./themes/id.tmTheme."
+        "path": "./themes/One Dark Palenight-color-theme.json"
       }
     ]
-  },
-  "displayName": "One Dark Palenight"
+  }
 }
