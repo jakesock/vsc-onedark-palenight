@@ -1,0 +1,21 @@
+{
+  "publisher": "JakeSock",
+  "name": "one-dark-palenight",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.22.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "onedark-palenight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/id.tmTheme."
+      }
+    ]
+  },
+  "displayName": "One Dark Palenight"
+}
